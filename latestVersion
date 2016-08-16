@@ -1,3 +1,5 @@
-playerInfo = 0.5
+basher = 0.5
+players = 0.5
+deffer = 1.0
 other = 1.0
 #ignored
